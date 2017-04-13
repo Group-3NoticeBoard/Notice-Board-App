@@ -1,4 +1,21 @@
 @charset "utf-8";
 /* CSS Document */
+header {box-shadow: 1px 2px 1px 0 rgba(0, 0,0 , 0.2);}
+#sitename {margin-top:5%;
+		   color:#03F;
+		   font-size:24px;
+		   font-family:Tahoma, Geneva, sans-serif;}
+#tagline { font-size:14px;
+		   font-style:italic;
+		   color:#03F;}
+#display {border:1px solid #09F;
+	      box-shadow: 1px 2px 1px 0 rgba(0, 0,0 , 0.2); 
+		  height:500px; 
+		  overflow:scroll;}
+#taglinediv {padding-top:2%;}	
+#returndiv {padding-top:2%;}	
+#feeds { float:left;}  
+
+
 
 
